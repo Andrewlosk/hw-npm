@@ -1,0 +1,14 @@
+{
+  "name": "hw",
+  "version": "1.0.0",
+  "description": "my homework",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script js"
+  },
+  "author": "andrii losckucherevii",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
